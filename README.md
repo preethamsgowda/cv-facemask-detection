@@ -1,5 +1,4 @@
-# cv-facemask-detection
-
+# Face Mask Detection - Computer Vision
 ## Objective:
 To detect if a person or people in a given image/video frame is wearing a mask or not.
 
